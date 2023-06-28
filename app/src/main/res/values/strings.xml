@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="number_1">Введіть число 1</string>
+    <string name="number_2">Введіть число 2</string>
+    <string name="calc">Калькулятор</string>
+    <string name="add_button">Скласти числа</string>
+    <string name="count_click">Кількість натисків на кнопку</string>
+    <string name="next_button">Перейти на наступну сторінку</string>
+    <string name="two_pages">Друга сторінка</string>
+</resources>
